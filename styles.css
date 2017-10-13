@@ -1,6 +1,6 @@
-h1{color:silver;}
-body {background: midnightblue;
-color: grey;
+h1{color:gold;}
+body {background: darkred;
+color: orange;
 
 font-family: 'Orbitron', sans-serif;
 
@@ -9,7 +9,7 @@ font-family: 'Orbitron', sans-serif;
 
 a {
 display:inline-block'
-border: 2px black
+border: 2px gold
 padding: 20px;
 margin: 5px;
-background: black }
+background: lightyellow }
